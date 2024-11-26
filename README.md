@@ -45,7 +45,7 @@ The response can be:
    ```bash
    export SECONDS_DELAY=50
    ```
-3. **Runn Server**
+3. **Run Server**
    ```bash
    python3 -m flask run
    ```
